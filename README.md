@@ -1,4 +1,4 @@
-#Beep - eCommerce Web Application 🛒🛍️
+## Beep - eCommerce Web Application 🛒🛍️
 [Live Demo 🔗](https://beep-frontend.vercel.app)
 
 Beep is a full-stack eCommerce platform designed for a seamless shopping experience across all devices. It features a Backend, Frontend, and Admin Panel, allowing users to create accounts, browse products, and make secure purchases via Cash on Delivery (COD) or Stripe. The platform is fully responsive, ensuring optimal performance on mobile, tablet, and large screens
@@ -21,5 +21,6 @@ Beep is a full-stack eCommerce platform designed for a seamless shopping experie
 
 
  Live Demo 🔗  
-[View Live Project](https://beep-frontend.vercel.app)
-[View Live Admin](https://beep-admin.vercel.app)
+[Preview Live Project](https://beep-frontend.vercel.app)
+Live Demo 🔗
+[Preview Live Admin](https://beep-admin.vercel.app)
